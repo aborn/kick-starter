@@ -7,7 +7,7 @@
 门脚本语言，推荐Python。
 
 ### Java
-掌握最基本的Java语法，熟悉多线程，Tomcat容器，Netty，Spring框架，MyBatis数据库中间件。掌握
+掌握最基本的Java语法，熟悉多线程，Tomcat容器，Netty，Spring框架，ZooKeeper，MyBatis数据库中间件。掌握
 RPC最基本用法。推荐书籍《Java并发编程实战》。
 
 ### Spring框架
