@@ -8,7 +8,7 @@
 
 ### Java
 掌握最基本的Java语法，熟悉多线程，Tomcat容器，Netty，Spring框架，ZooKeeper，MyBatis数据库中间件。掌握
-RPC最基本用法。推荐书籍《Java并发编程实战》。
+RPC最基本用法。推荐书籍《Java并发编程实战》《Netty权威指南》。
 
 ### Spring框架
 Spring基本配置，SpringMVC等。 推荐书籍《Spring源码深度解析》。
