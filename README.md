@@ -31,9 +31,11 @@ mvn的常用命令
 Intellij
 
 ## 操作系统
+熟悉Linux操作系统，macOS操作系统
 
 ### 基本命令
-熟悉Shell基本命令，如touch, grep，tail，mv，mkdir，cat，find, awk, sed， scp
+熟悉Shell基本命令，如touch, grep，tail，mv，mkdir，cat，find, awk, sed， scp, chown,
+chmod，推荐书籍《鸟哥的linux私房菜》
 
 ### 其他
 环境变量$PATH
