@@ -13,6 +13,9 @@ RPC最基本用法。
 ### Spring框架
 Spring基本配置，SpringMVC等
 
+### JavaScript
+JS是必需掌握的语言，懂得最基本的用户，及最近几年流行的Node.js
+
 ## 开发工具
 
 ### Git
