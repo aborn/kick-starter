@@ -18,7 +18,11 @@ RPC最基本用法。
 ### 文本编辑器
 熟悉Vim或者Emacs，其中Vim必需掌握最基本用法
 
-### 
+### mvn
+mvn的常用命令
+
+### IDE
+Intellij
 
 ## 系统
 
