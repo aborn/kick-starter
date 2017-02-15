@@ -28,7 +28,7 @@ JS是必需掌握的语言，懂得最基本的用户，及最近几年流行的
 mvn的常用命令
 
 ### IDE
-Intellij
+Intellij，如何设置断点Debug？如何安装开发环境及插件？
 
 ## 三、操作系统
 熟悉Linux操作系统，macOS操作系统
