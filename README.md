@@ -16,6 +16,9 @@ Spring基本配置，SpringMVC等。 推荐书籍《Spring源码深度解析》�
 ### JavaScript
 JS是必需掌握的语言，懂得最基本的用户，及最近几年流行的Node.js
 
+### 模板语言
+haml, erb, freemarker(ftl)
+
 ## 二、开发工具
 
 ### Git
