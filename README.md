@@ -22,7 +22,10 @@ haml, erb, freemarker(ftl)
 ## 二、开发工具
 
 ### Git
-掌握最基本的操作：分支的创建及合并、提交、commit等。用好最大的开源平台[github](https://github.com)
+掌握最基本的操作：
+1. 分支的创建、删除及合并;
+2. 提交commit。
+用好最大的开源平台[github](https://github.com)
 
 ### 文本编辑器
 熟悉Vim或者Emacs，其中Vim必需掌握最基本用法
