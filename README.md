@@ -47,8 +47,14 @@ mvn的常用命令
 
 ### 基本命令
 熟悉Shell基本命令，如熟练使用以下命令：  
-touch, grep，tail，mv，mkdir，cat，find, awk, sed， scp, chown,
-chmod，推荐书籍《鸟哥的linux私房菜》
+1. touch/cat/tail  
+2. grep  
+3. mv  
+4. mkdir，find  
+5. chown/chmod  
+6. scp  
+7. awk, sed  
+推荐书籍《鸟哥的linux私房菜》
 
 ### 其他
 环境变量$PATH
