@@ -38,7 +38,8 @@ haml, erb, freemarker(ftl)
 mvn的常用命令
 
 ### IDE
-Intellij，如何设置断点Debug？如何安装开发环境及插件？
+熟练使用Intellij IDEA，要达到以下几点：
+如何设置断点Debug？如何安装开发环境及插件？
 
 ## 三、操作系统
 熟悉Linux操作系统，macOS操作系统
