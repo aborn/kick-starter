@@ -38,7 +38,7 @@ haml, erb, freemarker(ftl)
 mvn的常用命令
 
 ### IDE
-熟练使用Intellij IDEA，要达到以下几点：
+熟练使用Intellij IDEA，要达到以下几点：  
 1. 如何设置断点？如何debug？
 2. 如何安装开发环境及插件？
 
@@ -46,7 +46,8 @@ mvn的常用命令
 熟悉Linux操作系统，macOS操作系统
 
 ### 基本命令
-熟悉Shell基本命令，如touch, grep，tail，mv，mkdir，cat，find, awk, sed， scp, chown,
+熟悉Shell基本命令，如熟练使用以下命令：  
+touch, grep，tail，mv，mkdir，cat，find, awk, sed， scp, chown,
 chmod，推荐书籍《鸟哥的linux私房菜》
 
 ### 其他
