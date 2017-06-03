@@ -24,11 +24,15 @@ haml, erb, freemarker(ftl)
 ### Git
 掌握最基本的操作：
 1. 分支的创建、删除及合并;
-2. 提交commit。
+2. 提交commit;
+3. 如何打tag。
 用好最大的开源平台[github](https://github.com)
 
 ### 文本编辑器
-熟悉Vim或者Emacs，其中Vim必需掌握最基本用法
+熟悉Vim或者Emacs，其中Vim必需掌握最基本用法，要做到如下几点：
+1. 打开文件，移动光标；
+2. 删除当前字符及行；
+3. 保存。
 
 ### mvn
 mvn的常用命令
