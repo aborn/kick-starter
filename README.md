@@ -26,6 +26,9 @@ JS是必需掌握的语言，懂得最基本的用户，及最近几年流行的
 ### 模板语言
 haml, erb, freemarker(ftl)
 
+### 前端
+React + Antd
+
 ## 二、研发工具
 
 ### Git
