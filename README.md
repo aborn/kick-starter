@@ -29,6 +29,9 @@ haml, erb, freemarker(ftl)
 ### 前端
 React + Antd
 
+### 开源框架
+开源RPC框架 [Dubbo](https://github.com/apache/dubbo)
+
 ## 二、研发工具
 
 ### Git
